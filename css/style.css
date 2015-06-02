@@ -1,0 +1,31 @@
+
+/* the font that matches the design pdf */
+body {
+	font-family: "Lato", sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.text-muted{
+	color: #bcbbbb;
+}
+
+.title-text{
+	font-size: 68px;
+}
+
+/* to introduce a space above the title logos */
+.title-logo{
+	margin-top: 20px;
+}
+
+/* to draw a thick hr */
+.hr-thick{
+	border: 0 none;
+	height: 5px;
+	background-color: #bcbbbb;
+}
